@@ -1,0 +1,24 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+nav{
+position; absolute;
+top: 0px;
+left: 0px;
+max-width;
+height: 50px;
+background-color: blue;
+
+}
+
+ {
+position; absolute;
+top:10px;
+left:100px;
+max-width;
+height: 50px;
+}
+
+

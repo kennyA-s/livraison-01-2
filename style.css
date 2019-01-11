@@ -1,8 +1,0 @@
-.nav {
-    width: max-width;
-    height: 50px;
-    background-color: gray;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}

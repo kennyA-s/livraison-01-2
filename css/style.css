@@ -1,4 +1,10 @@
 .nav {
-	border-style: solid; 
-	background color : blue; 
+    height: 50px;
+    width: 100%;
+    background-color: gray;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+
 }
